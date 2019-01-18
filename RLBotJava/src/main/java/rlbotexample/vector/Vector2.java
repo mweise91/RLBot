@@ -1,11 +1,5 @@
 package rlbotexample.vector;
 
-/**
- * A vector that only knows about x and y components.
- *
- * This class is here for your convenience, it is NOT part of the framework. You can add to it as much
- * as you want, or delete it.
- */
 public class Vector2 {
 
     public final double x;

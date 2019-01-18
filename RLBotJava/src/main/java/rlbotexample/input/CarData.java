@@ -3,12 +3,6 @@ package rlbotexample.input;
 
 import rlbotexample.vector.Vector3;
 
-/**
- * Basic information about the car.
- *
- * This class is here for your convenience, it is NOT part of the framework. You can change it as much
- * as you want, or delete it.
- */
 public class CarData {
 
     /** The location of the car on the field. (0, 0, 0) is center field. */

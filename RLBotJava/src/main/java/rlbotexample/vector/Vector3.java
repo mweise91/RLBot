@@ -2,12 +2,6 @@ package rlbotexample.vector;
 
 import com.google.flatbuffers.FlatBufferBuilder;
 
-/**
- * A simple 3d vector class with the most essential operations.
- *
- * This class is here for your convenience, it is NOT part of the framework. You can add to it as much
- * as you want, or delete it.
- */
 public class Vector3 extends rlbot.vector.Vector3 {
 
     public Vector3(double x, double y, double z) {
